@@ -1,0 +1,4 @@
+tempo paralelo: 0.000026s
+tempo sequencial: 0.000047s
+
+speed-up: 0.000047 / 0.000026 = 1,8077
